@@ -133,5 +133,3 @@ The goal is to establish a reliable and efficient mechanism to synchronize table
 
 ---
 
-For additional details or clarifications, please feel free to reach out.
-
